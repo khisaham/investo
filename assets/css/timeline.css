@@ -1,0 +1,34 @@
+div#numbering {
+    height: 50px;
+    width: 50px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    position: absolute;
+    top: 0;
+    margin-top: 10px;
+    margin-left: -20px;
+    background: white;
+}
+div#mystatus {
+    height: 75px;
+    text-align: center;
+    padding: 10px;
+}
+img#myprop-img {
+    height: 50px;
+    width: 50px;
+    z-index: 1000;
+    display: block;
+}
+div#section-to-print{
+    display: none;
+}
+div#waitt{
+    display: none;
+}
+div#loginSuccesss{
+    display: none;
+}
+
